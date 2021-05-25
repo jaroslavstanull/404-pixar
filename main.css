@@ -1,0 +1,40 @@
+body{background-color: #FFFFFF;
+
+
+
+}
+header{background-color: aqua;
+
+}
+img{ float: left;
+
+}
+nav{ float: right;
+    padding: 5px;
+
+
+
+
+}
+main{ float: left;
+    margin-top: 150px;
+
+}
+
+div{ float: right;
+    margin-top: 10px;
+margin-left: 100px;
+}
+h1{font-size: 70px;
+    text-decoration-style: wavy;
+}
+p{font-size: 30px;
+
+}
+p{font-size: 30px;
+    text-decoration: double;
+    te
+}
+img{
+    margin-left: 20px;
+}
